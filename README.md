@@ -29,13 +29,13 @@ This project features a full-stack implementation with a Flask backend, a SQLite
 
 1.  **Clone the repository**:
     ```bash
-    git clone [https://github.com/your-github-username/smart-task-planner.git](https://github.com/your-github-username/smart-task-planner.git)
+    git clone [https://github.com/kavyavannur14/smart-task-planner.git](https://github.com/kavyavannur14/smart-task-planner.git)
     cd smart-task-planner
     ```
 
 2.  **Create a `.env` file** in the root directory and add your Google AI API Key:
     ```
-    GOOGLE_API_KEY=YOUR_API_KEY_HERE
+    GOOGLE_API_KEY=AIzaSyCx8S6b8V3NSAnzCLjvPEFxHN6A6Zmh1BM
     ```
 
 3.  **Install the required Python packages**:
