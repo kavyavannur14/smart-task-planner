@@ -34,7 +34,7 @@ This project features a full-stack implementation with a Flask backend, a SQLite
 
 2.  **Create a `.env` file** in the root directory and add your Google AI API Key:
     ```
-    GOOGLE_API_KEY=AIzaSyCx8S6b8V3NSAnzCLjvPEFxHN6A6Zmh1BM
+    GOOGLE_API_KEY=AIza---------------------------
     ```
 
 3.  **Install the required Python packages**:
