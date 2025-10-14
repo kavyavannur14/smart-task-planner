@@ -17,7 +17,6 @@ This project features a full-stack implementation with a Flask backend, a SQLite
 * **Database**: SQLite
 * **AI Model**: Google Gemini Pro
 * **Frontend**: HTML5, CSS3, JavaScript
-* **Deployment**: Gunicorn / Waitress (Production-ready)
 
 ## 🚀 Setup and Installation
 
