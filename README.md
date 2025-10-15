@@ -1,9 +1,9 @@
-# 🧠 Smart Task Planner AI
+#  Smart Task Planner AI
 
 An intelligent web application that uses Google's Gemini AI to break down high-level goals into a detailed, actionable project plan.
 This project features a full-stack implementation with a Flask backend, a SQLite database, and a responsive web interface.
 
-## ✨ Features
+##  Features
 
 * **AI-Powered Planning**: Leverages the Gemini Pro model to generate logical and comprehensive task breakdowns.
 * **Interactive Web Interface**: A clean and user-friendly frontend built with HTML, CSS, and JavaScript for submitting goals and viewing plans.
@@ -11,14 +11,14 @@ This project features a full-stack implementation with a Flask backend, a SQLite
 * **Structured JSON API**: A robust backend API that provides plans in a clean, predictable JSON format.
 * **Dynamic Results**: Displays generated tasks instantly on the webpage without needing a refresh.
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 * **Backend**: Python, Flask
 * **Database**: SQLite
 * **AI Model**: Google Gemini Pro
 * **Frontend**: HTML5, CSS3, JavaScript
 
-## 🚀 Setup and Installation
+##  Setup and Installation
 
 ### **Prerequisites**
 * Python 3.8+
@@ -61,7 +61,7 @@ This project features a full-stack implementation with a Flask backend, a SQLite
 4.  The AI-generated task list will appear on the page.
 5.  To see all previously saved plans, navigate to `http://127.0.0.1:5000/plans`.
 
-## 📝 API Endpoints
+##  API Endpoints
 
 The application exposes the following API endpoints:
 
